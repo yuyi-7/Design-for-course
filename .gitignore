@@ -6,6 +6,10 @@ __pycache__/
 word
 *.docx
 
+
+picture
+*.png
+
 # C extensions
 *.so
 
